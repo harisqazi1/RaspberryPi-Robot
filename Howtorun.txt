@@ -1,0 +1,6 @@
+Run bash filename.sh
+
+
+To change filename do: chmod +x file.sh
+This should turn the file green
+

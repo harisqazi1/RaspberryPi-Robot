@@ -1,0 +1,16 @@
+[H[2J[3J  _____       _           _      _____           
+ |  __ \     | |         | |    / ____|          
+ | |__) |___ | |__   ___ | |_  | |     __ _ _ __ 
+ |  _  // _ \| '_ \ / _ \| __| | |    / _` | '__|
+ | | \ \ (_) | |_) | (_) | |_  | |___| (_| | |   
+ |_|  \_\___/|_.__/ \___/ \__|  \_____\__,_|_|   
+Facial Recogniton Initiated
+Facial Recognition Passed
+RFID Verification Initiated
+Scan RFID
+RFID Verification Passed
+Starting motors for car
+f = forward; r = reverse; e = exit;
+forward
+Use f/r/e only!
+Use f/r/e only!
