@@ -3,6 +3,8 @@ Purpose:
 
 This is an Independent Study project I did. This is a robot that is run by a Raspberry Pi 3. The main outcome of this project is to do facial recogition, RFID scan, and after that is complete, move the robot through voice commands.
 
+NOTE: All the code is NOT here. There are some code that are in folders, and since Github does not allow folders, I suggest following the links in Resources below to get what you want to fully work. The code I have provided worked with my project. 
+
 Materials:
 Raspberry Pi 3b,
 Raspberry Pi Camera,
@@ -42,3 +44,5 @@ Code:
 01_face_dataset.py - (Part 1 of the Facial Recognition) for training the face recognition software. Can be modified to take more pictures to train more precisely.
 
 02_face_training.py - (Part 2 of the Facial Recognition) Trains the Program with the data from part 1.
+
+More coming soon...
